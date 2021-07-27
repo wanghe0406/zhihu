@@ -1,0 +1,55 @@
+/* header */
+.tab_item {
+  margin-left: 15px;
+  margin-right: 20px;
+}
+
+.tab_item li {
+  padding-left: 15px;
+  padding-right: 15px;
+  display: inline-block;
+}
+
+.cursor {
+  float: left;
+  cursor: pointer;
+  margin-left: 375px;
+}
+
+.css_hediv {
+  width: auto;
+  height: 53px;
+  line-height: 53px;
+}
+
+.head_search {
+  position: relative;
+  left: 777px;
+  top: -70px;
+}
+
+.head_search input {
+  display: inline-block;
+  width: 286;
+  height: 24px;
+}
+
+.head_search label {
+  display: inline-block;
+  width: 300px;
+  height: 40px;
+  border-radius: 99px;
+  background-color: #f6f6f6;
+}
+
+.head_search button {
+  width: 70px;
+  height: 32px;
+  border-radius: 15px;
+  border: 0px;
+  background-color: #0066ff;
+}
+
+.head_search .icon_span {
+  margin-right: 44px;
+}
